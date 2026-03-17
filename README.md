@@ -1,16 +1,52 @@
-# flutter_application_1
+# Expert Fiesta
 
-A new Flutter project.
+## Overview
+Expert Fiesta is a platform that verifies skills and credentials using blockchain technology.  
+It allows candidates to prove their achievements and helps recruiters verify them instantly.
 
-## Getting Started
+## Features
+- Blockchain credential verification
+- AI skill analysis
+- Recruiter dashboard
+- Candidate profile system
+- Wallet integration
 
-This project is a starting point for a Flutter application.
+## Tech Stack
+Frontend:
+- Next.js
+- TailwindCSS
 
-A few resources to get you started if this is your first Flutter project:
+Backend:
+- Node.js
+- Firebase
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Blockchain:
+- Solidity
+- IPFS
+- Ethers.js
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Installation
+
+Clone the repository
+
+git clone https://github.com/Thabo-create-UX/expert-fiesta.git
+
+Navigate to the project
+
+cd expert-fiesta
+
+Install dependencies
+
+npm install
+
+Run the development server
+
+npm run dev
+
+## Screenshots
+(Add screenshots here)
+
+## Author
+Thabo William
+
+
